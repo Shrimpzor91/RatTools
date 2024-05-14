@@ -1,0 +1,8 @@
+Package: RatTools
+Title: Shrimp's First Package
+Version: 0.1.0
+Description: Useful stuff for viewing rat data. I'll add more later.
+License: GNU
+Encoding: UTF-8
+Author: Shrimpy
+Maintainer: Shrimpy the Developer <Viancu91@gmail.com>
